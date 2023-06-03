@@ -84,5 +84,7 @@ public class Counter extends JFrame implements ActionListener {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setVisible(true);
+
+        int i = 9;
     }
 }
